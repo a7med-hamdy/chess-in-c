@@ -15,3 +15,5 @@ Dead positions:
 ● king and bishop versus king and bishop with the bishops on the same color.
 If a draw occurs a message “Draw” is displayed and the game ends.
 Castling: a special move in which the king is moved two squares toward the rook, and the rook moves past the king to the square right next to where the king has moved.
+
+the game was a school programming project in teams of two. it was implemented by me and a colleague. 
